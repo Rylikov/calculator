@@ -21,5 +21,4 @@ npm install calculator-bukharovev -g
 calculate '300 + 6 * -24 / ( 105 + 5 ) - 2.5'
 ```
 
-### Examples
-https://asciinema.org/connect/955ca1b9-e523-40d6-ad9e-c445c985a8f4
+
